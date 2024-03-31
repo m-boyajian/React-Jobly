@@ -1,0 +1,20 @@
+.navbar {
+  height: 80px;
+}
+
+.navbar-nav.ml-auto {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 20px;
+}
+
+.navbar-nav.ml-auto .nav-link {
+  margin-right: 6px;
+}
+
+.navbar-nav .nav-link {
+  margin-right: 20px;
+}
+
+

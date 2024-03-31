@@ -1,0 +1,35 @@
+.home-container {
+  position: relative;
+  height: 100vh;
+}
+
+.home-content {
+  position: absolute;
+  bottom: 33%;
+  left: 50%; 
+  transform: translate(-50%, -50%); 
+}
+
+.home-text {
+  color: white;
+  text-shadow: 2px 2px 6px #000000;
+}
+
+.home-text-title {
+  color: white;
+  text-shadow: 2px 2px 6px #000000;
+  font-size: 50px;
+}
+
+.button {
+  margin-right: 4px;
+  margin-top: 20px;
+  filter:drop-shadow(2px 2px 6px  #151515);
+}
+
+.welcome-text {
+  color: white;
+  text-shadow: 2px 2px 6px #000000;
+}
+
+
